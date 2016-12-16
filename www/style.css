@@ -28,9 +28,9 @@ body {
 }
 
 h1 {
-	font-size:48px;
+	font-size:50px;
 	color:white;
-	font-weight:900;
+	font-weight:500;
 	margin-bottom:30px;
 }
 
@@ -48,8 +48,18 @@ h3 {
 	margin-bottom:7px;
 }
 
+h4 {
+	color: white;
+	font-weight: 300;
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
 strong {
-	font-weight:900;
+	font-weight:300;
 }
 
 .no_margin {
@@ -65,9 +75,16 @@ p {
 }
 
 .big_p {
-	font-size:17px;
-	line-height:25px;
-	
+    margin-top: 150px;
+    margin-bottom: 0;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+.MOOC {
+    margin-top: 0;
+    font-size: 25px;
+    line-height: 25px;
 }
 
 .navbar-default {
@@ -95,6 +112,11 @@ p {
 	font-weight:400;
 }
 
+
+.calendly-inline-widget {
+	height: 400px;
+}
+
 header {
 	background:url(images/header.svg) no-repeat bottom;
 	min-height:630px;
@@ -104,13 +126,25 @@ header {
 }
 
 .header_content {
-	padding:3% 20%;
+	padding:7% 10%;
 }
 
 header p {
 	font-size:18px;
 	font-weight:200;
 	color:white;
+}
+
+
+video {
+    margin: 0 auto;
+    margin-top: 60px;
+    width: 800px;
+    position: relative;
+    height: 451px;
+    overflow: hidden;
+    box-shadow: 0 0 70px rgba(0,0,0, .2);
+    border-radius: 6px;
 }
 
 .btn-default {
@@ -174,20 +208,21 @@ transition: all .5s ease-in-out;
 
 .pricing p {
 	color:white;
+	font-size: 25px;
+	font-weight: 100px;
 }
 
 .pricing_title {
-	color:white;
-	font-size:26px;
+	color:rgba(255,255,255,0.7);
+	font-size:20px;
 	margin-bottom:20px;
-	font-weight:bold;
 	display:block;
 }
 
 .pricing_price {
 	color:white;
-	font-weight:900;
-	font-size:30px;
+	font-weight:400;
+	font-size:45px;
 	margin:20px 0;
 	/*display:block;*/
 }
@@ -200,11 +235,18 @@ transition: all .5s ease-in-out;
 	color: rgba(72,85,101);
 }
 
+hr {
+	width: 50%;
+	margin-top: 10px;
+    margin-bottom: 30px;
+    border: 0;
+    border-top: 1px solid rgba(255,255,255,0.3);
+}
+
 
 #instead {
 	color: rgba(255,255,255,0.7);
-	font-size: 15px;
-	margin-bottom: 30px;
+	font-size: 12px;
 }
 
 #sub_button{
@@ -239,10 +281,24 @@ transition: all .5s ease-in-out;
 	width:100%;
 }
 
+.section_seven {
+	height:240px;
+	background-color:#1AB0D2;
+	padding:40px 0;
+	
+}
+
+.section_seven p {
+	color:white;
+	font-size:37px;
+	margin-bottom:50px;
+	line-height:40px;
+}
+
 .section_six {
-	height:413px;
-	background-color:#0D70E2;
-	padding:10% 0;
+	height: 223px;
+    background-color: #0D70E2;
+    padding: 40px;
 	
 }
 
@@ -251,6 +307,41 @@ transition: all .5s ease-in-out;
 	font-size:37px;
 	margin-bottom:50px;
 	line-height:40px;
+}
+
+.small_explanation {
+	font-size: 17px;
+	color:rgba(255,255,255,0.5);
+}
+
+.section_eight {
+	height: auto;
+	padding-bottom: 50px;
+	background-color:#00A2FF;
+}
+
+.section_eight h2 {
+    color: white;
+}
+
+
+.section_eight p {
+	color:rgba(255,255,255,1);
+	font-size:30px;
+	font-weight: 300;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 40px;
+	line-height: 50px;
+}
+
+#nath h3 {
+	color: rgba(255,255,255,0.9);
+    font-size:26px; 
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 footer {
@@ -415,12 +506,13 @@ padding:10px 20px;
 }
 
 .pricing {
-	width:36%;
+	width:50%;
 	background-color:#0D70E2;
 	padding:50px 40px;
 	margin:40px auto;
-
+	border-radius:20px; 
 }
+
 
 }
 
@@ -432,6 +524,12 @@ padding:10px 20px;
 	padding:50px 0px;
 	min-height:510px;
 }
+
+
+.calendly-inline-widget {
+	height: 300px;
+}
+
 
 .video {
 	width: 854px;
@@ -457,11 +555,11 @@ padding:10px 20px;
 }
 
 .pricing {
-	width:42%;
+	width:50%;
 	background-color:#0D70E2;
 	padding:50px 40px;
 	margin:40px auto;
-
+	border-radius: 20px;
 }
 
 .header_content {
@@ -518,6 +616,16 @@ padding:10px 20px;
 	width:42px;
 	border:none;
 	
+}
+
+.section_eight {
+	height:600px;
+	background-color:#00A2FF;
+}
+
+
+.calendly-inline-widget {
+	height: 200px;
 }
 
 .video {
@@ -591,11 +699,11 @@ padding:10px 20px;
 }
 
 .pricing {
-	width:280px;
+	width:350px;
 	background-color:#0D70E2;
 	padding:50px 40px;
 	margin:40px auto;
-
+	border-radius: 20px;
 }
 
 .section_six {
@@ -607,6 +715,15 @@ padding:10px 20px;
 }
 
 @media (max-width: 530px) {
+
+.calendly-inline-widget {
+	height: 120px;
+}
+
+.section_eight {
+	height:800px;
+	background-color:#00A2FF;
+}
 
 .section_three {
 	background:#F1F6FA;
@@ -634,9 +751,6 @@ footer ul li {
 	display:block;
 	margin-bottom:10px;
 }
-	
-}
-
 
 
 #path-2 {

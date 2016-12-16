@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="414px" viewBox="0 0 1440 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="35.9743924%" y1="0%" x2="73.3170573%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1FDDE6" offset="0%"></stop>
+            <stop stop-color="#136FB6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-3" transform="translate(0.000000, -4861.000000)" fill="url(#linearGradient-1)">
+            <g id="Get-started-for-free" transform="translate(0.000000, 4861.000000)">
+                <rect id="Rectangle-25" x="0" y="0" width="1440" height="414"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
