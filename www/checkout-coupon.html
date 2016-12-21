@@ -71,6 +71,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="section_four">
     <div class="container text-center">
+      <input type="text" id="couponcode" placeholder="Enter your coupon code here" class="form-control"/>        
+      <input type="submit" value="Apply discount" onclick="Change()"/>
+      <br>
+      <h3>Final amount: <span id="FinalAmount">€19.90</span></h3>
+      
+      <br>
       <form action="https://skillz.io" method="POST">
             <script src="https://checkout.stripe.com/checkout.js"></script>
             <!-- Paying button-->
@@ -95,7 +101,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                       "teamid": teamid, 
                       "currency" : currency, 
                       "token" : tokenid, 
-                      "amount" : 9990, 
+                      "amount" : Number(document.getElementById('FinalAmount').innerHTML.replace("€", "").replace(".", "")), 
                       "planName": planName, 
                       "projectName" : "skillz", 
                       "isInTest" : false}),
@@ -114,7 +120,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   description: '15 daily doses',
                   zipCode: true,
                   currency: 'eur',
-                  amount: 9990
+                  amount: Number(document.getElementById('FinalAmount').innerHTML.replace("€", "").replace(".", ""))
                 });
                 e.preventDefault();
               });
