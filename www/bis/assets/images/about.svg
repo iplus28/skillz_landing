@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200px" height="586px" viewBox="0 0 1200 586" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1" fill="#F5FDFF" sketch:type="MSShapeGroup" x="0" y="0" width="1200" height="732"></rect>
+            <path d="M1044.47894,198.490137 C1044.47894,198.490137 979.094374,256.942666 1000.63619,391.511933" id="Path-1-Copy-3" stroke="#1E599E" stroke-width="4" stroke-dasharray="20,20" sketch:type="MSShapeGroup" transform="translate(1020.380245, 295.001035) rotate(273.000000) translate(-1020.380245, -295.001035) "></path>
+            <g id="Path-1-+-Oval-1-Copy-5-+-Oval-1-Copy-6" sketch:type="MSLayerGroup" transform="translate(73.000000, 172.000000)">
+                <path d="M50.4887402,0 C50.4887402,0 -18.0042721,30.4585513 4.56165779,100.580153 C27.1275876,170.701754 120,216 120,216" id="Path-1" stroke="#1E599E" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                <circle id="Oval-1-Copy-5" stroke="#0D989C" stroke-width="3" fill="#1E599E" sketch:type="MSShapeGroup" cx="31.5" cy="147.515267" r="8.5"></circle>
+            </g>
+            <g id="Path-1-Copy-+-Oval-1-Copy-8" sketch:type="MSLayerGroup" transform="translate(305.925630, 325.755405) rotate(144.000000) translate(-305.925630, -325.755405) translate(160.425630, 187.255405)">
+                <path d="M133.738251,9.31529509 C133.738251,9.31529509 51.7755875,45.7060553 78.7792724,129.484773 C105.782957,213.263491 216.919408,267.384174 216.919408,267.384174" id="Path-1-Copy" stroke="#1E599E" stroke-width="4" sketch:type="MSShapeGroup" transform="translate(145.119970, 138.349735) rotate(-50.000000) translate(-145.119970, -138.349735) "></path>
+                <circle id="Oval-1-Copy-8" stroke="#0D989C" stroke-width="3" fill="#1E599E" sketch:type="MSShapeGroup" cx="103.5" cy="186.5" r="7.5"></circle>
+            </g>
+            <g id="Path-1-Copy-+-Oval-1-Copy-8-Copy" sketch:type="MSLayerGroup" transform="translate(528.000000, 395.000000) scale(1, -1) rotate(127.000000) translate(-528.000000, -395.000000) translate(405.000000, 280.500000)">
+                <path d="M115.337492,-4.70049288 C115.337492,-4.70049288 60.1578181,29.0347105 78.3374925,106.699812 C96.5171669,184.364914 171.337492,234.536228 171.337492,234.536228" id="Path-1-Copy" stroke="#1E599E" stroke-width="4" sketch:type="MSShapeGroup" transform="translate(123.000000, 114.917867) rotate(-50.000000) translate(-123.000000, -114.917867) "></path>
+                <circle id="Oval-1-Copy-8" stroke="#0D989C" stroke-width="3" fill="#1E599E" sketch:type="MSShapeGroup" cx="85.5" cy="142.5" r="7.5"></circle>
+            </g>
+            <g id="Path-1-Copy-2-+-Oval-1-Copy-12" sketch:type="MSLayerGroup" transform="translate(661.000000, 221.000000)">
+                <path d="M137.208624,-67.8221798 C137.208624,-67.8221798 71.8240578,-28.2067877 93.3658689,62.9956695 C114.90768,154.198127 203.565226,213.114513 203.565226,213.114513" id="Path-1-Copy-2" stroke="#1E599E" stroke-width="4" sketch:type="MSShapeGroup" transform="translate(146.288230, 72.646167) rotate(84.000000) translate(-146.288230, -72.646167) "></path>
+                <circle id="Oval-1-Copy-12" stroke="#0D989C" stroke-width="3" fill="#1E599E" sketch:type="MSShapeGroup" cx="92.5" cy="53.5" r="7.5"></circle>
+            </g>
+            <g id="Oval-1-+-Introduction" sketch:type="MSLayerGroup" transform="translate(43.000000, 123.000000)">
+                <circle id="Oval-1" stroke="#1D599E" stroke-width="6" fill="#0C989C" sketch:type="MSShapeGroup" cx="62" cy="62" r="62"></circle>
+                <text id="Introduction" sketch:type="MSTextLayer" font-family="Lato" font-size="18" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="12" y="67">Introduction</tspan>
+                </text>
+            </g>
+            <g id="Oval-1-Copy-+-3-stages-of-Growth" sketch:type="MSLayerGroup" transform="translate(155.000000, 315.000000)">
+                <circle id="Oval-1-Copy" stroke="#1E599E" stroke-width="4" fill="#0C989C" sketch:type="MSShapeGroup" cx="51.5" cy="51.5" r="51.5"></circle>
+                <text id="3-stages-of-Growth" sketch:type="MSTextLayer" font-family="Lato" font-size="18" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="10.222" y="51">3 stages of </tspan>
+                    <tspan x="21.508" y="73">Growth</tspan>
+                </text>
+            </g>
+            <g id="Oval-1-Copy-2-+-Business-Model-&amp;-Met" sketch:type="MSLayerGroup" transform="translate(367.000000, 163.000000)">
+                <circle id="Oval-1-Copy-2" stroke="#1E599E" stroke-width="5" fill="#0C989C" sketch:type="MSShapeGroup" cx="80.5" cy="80.5" r="80.5"></circle>
+                <text id="Business-Model-&amp;-Met" sketch:type="MSTextLayer" font-family="Lato" font-size="18" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="19.359" y="80">Business Model </tspan>
+                    <tspan x="42.543" y="102">&amp; Metrics</tspan>
+                </text>
+            </g>
+            <g id="Oval-1-Copy-3-+-The-AARRR-framework" sketch:type="MSLayerGroup" transform="translate(601.000000, 351.000000)">
+                <circle id="Oval-1-Copy-3" stroke="#1E599E" stroke-width="3" fill="#0C989C" sketch:type="MSShapeGroup" cx="62" cy="54" r="54"></circle>
+                <text id="The-AARRR-framework" sketch:type="MSTextLayer" font-family="Lato" font-size="17" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="18.1825" y="51">The AARRR </tspan>
+                    <tspan x="21.013" y="72">framework</tspan>
+                </text>
+            </g>
+            <g id="Oval-1-Copy-4-+-Building-your-own-" sketch:type="MSLayerGroup" transform="translate(860.694698, 142.000000)">
+                <circle id="Oval-1-Copy-4" stroke="#1E599E" stroke-width="6" fill="#0C989C" sketch:type="MSShapeGroup" cx="75.5" cy="75.5" r="75.5"></circle>
+                <text id="Building-your-own-" sketch:type="MSTextLayer" font-family="Lato" font-size="17" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="10.0625" y="73">Building your own </tspan>
+                    <tspan x="35.911" y="94">Dashboard</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
